@@ -5,14 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d68663b-a59c-425c-9983-ff2623958624" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/review3/ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/review3/ForLoopDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/review3/SwitchDemo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/review3/WhileLoop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaReview/review3/LogicalOperator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaReview/review3/Note" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaReview/review3/SwitchDemo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/syntax/review3/ForLoopDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/review3/ForLoopDemo.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +43,7 @@
       <recent name="com.syntax.review2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.WhileLoop">
+  <component name="RunManager" selected="Application.ForLoopDemo">
     <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.review3.ForLoop" />
       <module name="JavaReview" />
@@ -117,8 +111,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.ForLoopDemo" />
+        <item itemvalue="Application.WhileLoop" />
         <item itemvalue="Application.ForLoop" />
         <item itemvalue="Application.SwitchDemo1" />
         <item itemvalue="Application.SwitchDemo" />
@@ -135,5 +129,16 @@
       <updated>1671063832977</updated>
     </task>
     <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/syntax/review3/ForLoopDemo.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

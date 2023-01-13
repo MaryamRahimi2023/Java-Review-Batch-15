@@ -4,13 +4,16 @@ public class ForLoopDemo {
     public static void main(String[] args) {
 
         for (int i = 10; i >5 ; i--) {
-            System.out.println(i);
+            System.out.print(i+" ");
         }
         for (int c = 5; c <=1 ; c--) {
-            System.out.println("happy");
+            System.out.print("happy");
         }
-        for (int j =8 ; j <=10 ; j+=8) {
-            System.out.println(j);
+
+        System.out.println("***************");
+
+        for (int j =1 ; j <=10 ; j++) {
+            System.out.println("9 * "+j+" = "+(9 * j));
 
         }
         for (int h = 1; h <=6 ; h++) {
