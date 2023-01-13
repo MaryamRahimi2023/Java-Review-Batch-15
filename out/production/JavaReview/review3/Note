@@ -1,0 +1,27 @@
+Logical operators:
+when we need to test for 2 or more conditions we use logical operators.
+
+
+boolean cold =true;
+boolean rain = true;
+
+AND:
+true
+
+if (cold && rain){ false
+sount("I will stay home")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NOT:
