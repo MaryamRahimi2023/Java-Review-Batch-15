@@ -17,6 +17,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
@@ -51,11 +54,11 @@
       </method>
     </configuration>
     <configuration name="LogicalOperator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review3.LogicalOperator" />
+      <option name="MAIN_CLASS_NAME" value="com.syntax.review3.LogicalOperator" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review3.*" />
+          <option name="PATTERN" value="com.syntax.review3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -90,11 +93,11 @@
       </method>
     </configuration>
     <configuration name="SwitchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="review3.SwitchDemo" />
+      <option name="MAIN_CLASS_NAME" value="com.syntax.review3.SwitchDemo" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="review3.*" />
+          <option name="PATTERN" value="com.syntax.review3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
