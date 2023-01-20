@@ -28,6 +28,7 @@ public class ForLoop {
                 System.out.println(i);
                 continue; // when condition became true java will print it and skip
                 // the 100 line of codes after it and going to the beginning of the loop again.
+                // but will print if any codes after the other braket means class of codes
             }
             System.out.println("Hello");
 
