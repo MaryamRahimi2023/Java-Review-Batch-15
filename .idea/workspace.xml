@@ -5,8 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d68663b-a59c-425c-9983-ff2623958624" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review1/Note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review2/Note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review4/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review4/Loops.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review4/NestedLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review4/Note" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/review3/Note" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/review3/Note" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/JavaReview/com/syntax/review3/Note" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaReview/com/syntax/review3/Note" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,32 +38,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Maryam Rahimi\IdeaProjects\JavaReview\src\review4" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.syntax.review3" />
       <recent name="com.syntax.review2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ForLoopDemo">
-    <configuration name="ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.review3.ForLoop" />
-      <module name="JavaReview" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.syntax.review3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.NestedLoop">
     <configuration name="ForLoopDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.syntax.review3.ForLoopDemo" />
       <module name="JavaReview" />
@@ -70,12 +68,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.review3.SwitchDemo" />
+    <configuration name="Loops" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.review4.Loops" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.review3.*" />
+          <option name="PATTERN" value="com.syntax.review4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +81,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SwitchDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.review3.SwitchDemo1" />
+    <configuration name="NestedLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.review4.NestedLoop" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.review3.*" />
+          <option name="PATTERN" value="com.syntax.review4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,13 +107,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.syntax.review4.ForLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.review4.ForLoop" />
+      <module name="JavaReview" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.syntax.review4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.NestedLoop" />
+        <item itemvalue="Application.com.syntax.review4.ForLoop" />
+        <item itemvalue="Application.Loops" />
         <item itemvalue="Application.ForLoopDemo" />
         <item itemvalue="Application.WhileLoop" />
-        <item itemvalue="Application.ForLoop" />
-        <item itemvalue="Application.SwitchDemo1" />
-        <item itemvalue="Application.SwitchDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -137,6 +148,11 @@
           <url>file://$PROJECT_DIR$/src/com/syntax/review3/ForLoopDemo.java</url>
           <line>5</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/syntax/review4/NestedLoop.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
