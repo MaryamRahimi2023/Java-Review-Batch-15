@@ -5,20 +5,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3d68663b-a59c-425c-9983-ff2623958624" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/review5/ArrayReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/review5/ArrayWithScanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/syntax/review5/TwoArrayReview.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/Config.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Files/TestTask.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review10/AllElementsFromSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review10/CollectionViewOfMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review10/MapDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review10/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review11/ConfigFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review11/EntrySetDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review11/EntrySetDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review11/ExcelDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review11/ExcelDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review6/Flower.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review6/Garden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review6/GardenAselCopy.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review6/MoreStringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review6/StrBuilderexample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review6/StringMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review7/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review7/Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review7/Overloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review7/Tesla.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review8/BMW.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review8/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review8/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review8/Insurance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review8/InsuranceTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review8/Notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review8/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review9/ArrayListDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review9/ArrayListDemo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review9/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review9/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review9/Drawable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review9/Note" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/syntax/review9/PrivateCustomer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaReview/com/syntax/review2/Note" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaReview/com/syntax/review3/Note" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaReview/com/syntax/review4/Break.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaReview/com/syntax/review4/ForLoop.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaReview/com/syntax/review4/ForLoop.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaReview/com/syntax/review4/NestedLoop3Hw.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/JavaReview/com/syntax/review4/NestedLoop3Hw.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/JavaReview/com/syntax/review4/Note" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/review2/Note" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/review3/Note" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/review4/NestedLoop3Hw.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/syntax/review4/NestedLoop3Hw.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/syntax/review4/Note" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaReview.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaReview.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +51,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -43,30 +67,40 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Maryam Rahimi/Music/poi-bin-5.2.3-20220909/poi-bin-5.2.3/poi-scratchpad-5.2.3.jar",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.16164815"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.syntax.review8" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Maryam Rahimi\IdeaProjects\JavaReview\Files" />
       <recent name="C:\Users\Maryam Rahimi\IdeaProjects\JavaReview\src\review4" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.syntax.review11" />
+      <recent name="com.syntax.review6" />
       <recent name="com.syntax.review4" />
       <recent name="com.syntax.review3" />
       <recent name="com.syntax.review2" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.TwoArrayReview">
-    <configuration name="ArrayReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.review5.ArrayReview" />
+  <component name="RunManager" selected="Application.ExcelDemo1">
+    <configuration name="ConfigFile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.review11.ConfigFile" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.review5.*" />
+          <option name="PATTERN" value="com.syntax.review11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayWithScanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.review5.ArrayWithScanner" />
+    <configuration name="EntrySetDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.review11.EntrySetDemo" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.review5.*" />
+          <option name="PATTERN" value="com.syntax.review11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreakAndContinue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.review4.BreakAndContinue" />
+    <configuration name="EntrySetDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.review11.EntrySetDemo1" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.review4.*" />
+          <option name="PATTERN" value="com.syntax.review11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +134,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedLoop3Hw" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.review4.NestedLoop3Hw" />
+    <configuration name="ExcelDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.review11.ExcelDemo" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.review4.*" />
+          <option name="PATTERN" value="com.syntax.review11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +147,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TwoArrayReview" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.syntax.review5.TwoArrayReview" />
+    <configuration name="ExcelDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.syntax.review11.ExcelDemo1" />
       <module name="JavaReview" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.syntax.review5.*" />
+          <option name="PATTERN" value="com.syntax.review11.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.TwoArrayReview" />
-        <item itemvalue="Application.ArrayWithScanner" />
-        <item itemvalue="Application.ArrayReview" />
-        <item itemvalue="Application.NestedLoop3Hw" />
-        <item itemvalue="Application.BreakAndContinue" />
+        <item itemvalue="Application.ExcelDemo1" />
+        <item itemvalue="Application.ExcelDemo" />
+        <item itemvalue="Application.ConfigFile" />
+        <item itemvalue="Application.EntrySetDemo1" />
+        <item itemvalue="Application.EntrySetDemo" />
       </list>
     </recent_temporary>
   </component>
@@ -163,6 +197,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.util.InputMismatchException" package="java.util" />
           <option name="timeStamp" value="4" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="5" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
